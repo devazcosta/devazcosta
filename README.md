@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Débora V. Costa. 
+- 👋 Hi, I’m Débora Vaz Costa. 
 - 👀 I’m interested in programming, math and data science.
 - 🌱 I’m currently learning C++, Python, Java.
 
